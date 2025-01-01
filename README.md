@@ -6,8 +6,8 @@ It's just a demo application while i was exploring [Phidata](https://docs.phidat
 
 ### Images
 
-<img src="./imgs/Skills.png" width="70%"/>
-<img src="./imgs/compare_stocks.png" width="70%"/>
+![skills](./imgs/Skills.png)
+![compare_stocks](./imgs/compare_stocks.png)
 
 ### Run Locally
 
